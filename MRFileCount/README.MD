@@ -14,7 +14,7 @@ Read key in each file (random number between 1 to 100000), count all number with
 ```
 
 ## Task 2
-Revise Task 1, write Top 10 number and its file information in all such distributions
+Revise Task 1, write Top 10 number and their file information in all such distributions
 
 ## Task 3
 Revise Task 1, count all number with digits in all files
